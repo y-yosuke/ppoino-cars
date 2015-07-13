@@ -8,4 +8,4 @@
 [Creative Commons 2.1 (BY-SA)](http://creativecommons.org/licenses/by-sa/2.1/jp/)
 
 # Contact
-ppoino.cars.yy[a-t]gmail.com
+- Email: ppoino.cars.yy[a-t]gmail.com
