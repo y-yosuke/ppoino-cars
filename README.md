@@ -1,6 +1,7 @@
 # ppoino-cars
 
-<img style="width: 100%;" src="https://github.com/y-yosuke/ppoino-cars/assets/3119480/aaeb1f71-cefc-4b2a-9f98-fbfb731b82e9">
+<img style="width: 100%;" src="https://github.com/y-yosuke/ppoino-cars/assets/3119480/5ec43e96-f4ab-4a26-9f49-c0757fb65aeb">
+
 
 ## License
 - [Creative Commons 4.0 (BY)](https://creativecommons.org/licenses/by/4.0/)
